@@ -70,12 +70,13 @@ body {
     font-weight: 800;
     color: #0f172a;
     letter-spacing: -0.5px;
-    
+    text-decoration:none;
 }
 
 .logo-text span {
     color: #293BDC;
     font-family: Arial, Helvetica, sans-serif;
+    text-decoration:none;
 }
 
 .nav-links a {
