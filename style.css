@@ -351,13 +351,7 @@ body {
     object-fit: cover;
     scroll-snap-align: start; 
 }
-.simple-carousel::-webkit-scrollbar {
-    display: none;
-}
-.simple-carousel {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-}
+
 .about{
     font-family: impact;
     font-size: 22px;
